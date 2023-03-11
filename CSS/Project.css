@@ -163,7 +163,7 @@ header i:hover {
 /* start intro  */
 .intro {
   height: 100vh; 
-    background-image: url(/imgs/INTROBACK.jpg);
+    background-image: url(../imgs/INTROBACK.jpg);
     background-size: cover;
     background-color: var(--main-color);
     position: relative;
@@ -349,7 +349,7 @@ font-size: 50px;
 
 }
 .servcont2 {
-background-image: url(/imgs/feat.jpg);
+background-image: url(../imgs/feat.jpg);
 background-size: cover;
 display: flex;
     flex-direction: row;
